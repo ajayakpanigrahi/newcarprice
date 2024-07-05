@@ -12,3 +12,4 @@ six==1.16.0
 sklearn==0.0
 sqlparse==0.4.1
 threadpoolctl==2.2.0
+pip=24.1.1
